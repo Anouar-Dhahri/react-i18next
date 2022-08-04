@@ -1,0 +1,17 @@
+{
+    "title" : "Qu'est-ce que React ?",
+    "p1" : "React.js a été publié par un ingénieur logiciel travaillant pour Facebook - Jordane Walke en 2011. React est une bibliothèque JavaScript axée sur la création d'interfaces utilisateur (IU) déclaratives à l'aide d'un concept basé sur les composants. Elle est utilisée pour gérer la couche de vue et peut être utilisée pour les applications web et mobiles. L'objectif principal de React est d'être étendu, rapide, déclaratif, flexible et simple. ",
+    "p2" : "React n'est pas un framework, c'est spécifiquement une bibliothèque.  L'explication en est que React ne s'occupe que du rendu des interfaces utilisateur et réserve de nombreuses choses à la discrétion des projets individuels. L'ensemble standard d'outils pour créer une application utilisant ReactJS est fréquemment appelé la pile.",
+    "bnf" : "Avantages",
+    "bnft" : "La question principale est donc de savoir pourquoi vous devriez choisir ReactJS comme pile de développement frontale alors qu'il en existe beaucoup d'autres. Voici quelques raisons :",
+    "bn1h4" : "Peu rapide.",
+    "bn1Exp" : "React permet aux développeurs d'utiliser des parties individuelles de leur application à la fois du côté client et du côté serveur, et les modifications qu'ils apportent n'affectent pas la logique de l'application. Cela rend le processus de développement extrêmement rapide.",
+    "bn2h4" : "Prise en charge des composants",
+    "bn2Exp" : "L'utilisation de balises HTML et de codes JS permet de travailler facilement avec un énorme ensemble de données contenant des DOM. React agit comme un intermédiaire qui représente le DOM et vous aide à décider quel composant nécessite des modifications pour obtenir des résultats précis.",
+    "bn3h4" : "Facile à utiliser et à apprendre.",
+    "bn3Exp" : "ReactJS est incroyablement convivial et rend toute interface utilisateur interactive. Il vous permet également de construire rapidement et efficacement des applications, ce qui constitue un gain de temps pour les clients et les développeurs.",
+    "bn4h4" : "compatible SEO.",
+    "bn4Exp" : "Un problème commun dont se plaignent la plupart des développeurs web est que les frameworks JavaScript traditionnels ont souvent des problèmes avec le SEO.  ReactJS résout ce problème en aidant les développeurs à naviguer facilement dans différents moteurs de recherche grâce au fait que l'application ReactJS peut s'exécuter sur le serveur, et que le DOM virtuel la rend et la renvoie au navigateur comme une page web.",
+    "bn5h4" : "Liaison de données à sens unique.",
+    "bn5Exp" : "La liaison de données à sens unique implique qu'absolument tout le monde peut retracer toutes les modifications qui ont été apportées à un segment des données.  C'est aussi l'une des raisons qui rendent React si facile."     
+}
