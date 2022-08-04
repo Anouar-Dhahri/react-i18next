@@ -22,11 +22,12 @@ code {
 .container {
   width:70%;
   height:auto;
-  margin:auto;
+  margin:50px auto 50px auto;
   padding: 20px;
   background-color: #fff;
   border-radius: 10px;
   top:50px;
+  box-shadow: 5px 5px 5px 5px rgba(0,0,0,.2);
 }
 
 .header {
